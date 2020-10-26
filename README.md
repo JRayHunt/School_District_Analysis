@@ -16,6 +16,10 @@ Here is a list that addresses how each of the seven school district metrics was 
 
 ## Summary
 Overall Thomas High School has moved from the bottom ten schools to the top five schools in the district.
+![top_five_performing_schools.PNG](/Resources/top_five_performing_schools.PNG)
 This is significant because it is a charter school type and the entire top five schools is comprised of charter schools.
+![scores_by_type.PNG](/Resources/scores_by_type.PNG)
 Thomas High School is in the medium bin sized schools with a student population of 1635. This bin has the highest overal passing rate at 91%.
+![scores_by_size.PNG](/Resources/scores_by_size.PNG)
 From a spending perspective, it should be noted that the lowest budgeted schools per student have the highest overall passing rates.
+![scores_by_spending_per_student.PNG](/Resources/scores_by_spending_per_student.PNG)
